@@ -5,15 +5,21 @@ Hi, I'm Ramya Guntuboina — a passionate and detail-oriented Quality Assurance 
 📌 Certifications:
 
 PMP (Project Management Professional)
+
 Selenium with Python
+
 Advanced Python
 
 🛠️ Key Areas of Expertise:
 
 Manual & Automation Testing
+
 Test Planning & Execution
+
 Selenium & Python Automation
+
 Agile & Waterfall Methodologies
+
 Team Leadership & Client Collaboration
 
 🚀 Always eager to learn, grow, and contribute to meaningful, high-impact projects.
